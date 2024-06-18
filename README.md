@@ -38,3 +38,19 @@ Watch the short ~3:31 video on YouTube at [Introduction and Demo Graph Drawing w
 ## Importing Data
 
 ## Profiling Queries
+
+## Wrapping up
+
+...or are we?
+
+## BONUS: Slides and discussion
+
+### Vector Indexes
+
+### Resources
+
+### Neo4j Data Importer
+
+### Neo4j LLM Graph Builder
+
+### Neo4j Graph Examples
