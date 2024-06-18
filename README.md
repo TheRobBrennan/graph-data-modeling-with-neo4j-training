@@ -28,6 +28,13 @@ Watch the short ~3:31 video on YouTube at [Introduction and Demo Graph Drawing w
 
 ## Refactoring Graphs
 
+### Exercise 2 - Explore refactoring using an older set of modeling exercises
+
+```sh
+# In Neo4j Browser
+> :play https://guides.neo4j.com/4.0-neo4j-modeling-exercises
+```
+
 ## Importing Data
 
 ## Profiling Queries
